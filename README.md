@@ -18,6 +18,16 @@ Esse projeto tem por objetivo construir uma aplicação Web que receberá o cons
   <img alt="Snapshot4" src=".github/snapshot4.png">
 </p>-->
 
+# Backend
+Fluxograma do projeto:
+<p align="center">
+  <img alt="ConsumptionMeterFlow" src=".github/ConsumptionMeterFlow.png">
+</p>
+
+# Frontend
+Snapshots:
+
+
 # Tecnologias
 Foram utilizadas as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en)
