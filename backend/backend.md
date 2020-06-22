@@ -4,7 +4,7 @@
 </p>
 
 # Projeto
-<strong>Consumption Meter Web App</strong>
+<strong>Consumption Meter Web App - Backend</strong>
 
 Esse projeto tem por objetivo construir uma aplicação Web que receberá o consumo de dados em megabyte, referente a um determinado período (backend) e permitirá ao usuário consultar o seu consumo por uma Aplicação Web (frontend).
 
@@ -18,7 +18,8 @@ Esse projeto tem por objetivo construir uma aplicação Web que receberá o cons
   <img alt="Snapshot4" src=".github/snapshot4.png">
 </p>-->
 
-# Tecnologias
-Foram utilizadas as seguintes tecnologias:
-- [Node.js](https://nodejs.org/en)
-- [React](https://reactjs.org)
+# Fluxograma
+Fluxograma do projeto:
+<p align="center">
+  <img alt="ConsumptionMeterFlow" src=".github/ConsumptionMeterFlow.png">
+</p>
