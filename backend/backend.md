@@ -21,5 +21,5 @@ Esse projeto tem por objetivo construir uma aplicação Web que receberá o cons
 # Fluxograma
 Fluxograma do projeto:
 <p align="center">
-  <img alt="ConsumptionMeterFlow" src=".github/ConsumptionMeterFlow.png">
+  <img alt="ConsumptionMeterFlow" src="../.github/ConsumptionMeterFlow.png">
 </p>
