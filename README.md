@@ -19,7 +19,7 @@ Esse projeto tem por objetivo construir uma aplicação Web que receberá o cons
 </p>-->
 
 # Backend
-Fluxograma do projeto:
+Fluxograma do projeto: 
 <p align="center">
   <img alt="ConsumptionMeterFlow" src=".github/ConsumptionMeterFlow.png">
 </p>
