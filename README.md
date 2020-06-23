@@ -24,9 +24,12 @@ Fluxograma do projeto:
   <img alt="ConsumptionMeterFlow" src=".github/ConsumptionMeterFlow.png">
 </p>
 
+<br/>
+
 # Frontend
 Snapshots:
 
+<br/>
 
 # Tecnologias
 Foram utilizadas as seguintes tecnologias:
