@@ -12,16 +12,17 @@ module.exports = {
 
     async create(request, response) {
 
-        const { name, email } = request.body;
+        const { name, email, cpf } = request.body;
 
         const id = generateUniqueId(); // gera um ID para o usuario
 
         const pwd = encryptPWD(request.body.pwd); // criptografa a senha
 
         await connection('user').insert({
-            id,
             name,
             email,
+            cpf,
+            id,
             pwd,
         });
 

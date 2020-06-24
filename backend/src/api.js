@@ -21,6 +21,7 @@ routes.post('/user', celebrate({
         name: Joi.string().required(),
         email: Joi.string().required().email(),
         pwd: Joi.string().required(),
+        cpf: Joi.string().required(),
     })
 }), UserController.create);
 
