@@ -3,7 +3,7 @@
 </p>
 
 # Projeto
-<strong>Consumption Meter Web App</strong>
+<strong>Medidor de Consumo - Web App</strong>
 
 Esse projeto tem por objetivo apresentar uma aplicação Web que receberá o consumo de dados em megabyte, referente a um determinado período (backend) e permitirá ao usuário consultar o seu consumo por uma Aplicação Web (frontend).
 
@@ -28,7 +28,14 @@ Snapshots:
 
 <br/>
 
+# Vídeos
+
+- [Medidor de Consumo - Web App Demo](https://youtu.be/ysfJrAA-LAE)
+
+<br/>
+
 # Tecnologias
 Foram utilizadas as seguintes tecnologias:
+
 - [Node.js](https://nodejs.org/en)
 - [React](https://reactjs.org)
