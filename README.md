@@ -9,6 +9,14 @@ Esse projeto tem por objetivo apresentar uma aplicação Web que receberá o con
 
 <br/>
 
+# Tecnologias
+Foram utilizadas as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en)
+- [React](https://reactjs.org)
+
+<br/>
+
 # Backend
 Fluxograma do projeto:
 <p align="center">
@@ -31,11 +39,3 @@ Snapshots:
 # Vídeos
 
 - [Medidor de Consumo - Web App Demo](https://youtu.be/ysfJrAA-LAE)
-
-<br/>
-
-# Tecnologias
-Foram utilizadas as seguintes tecnologias:
-
-- [Node.js](https://nodejs.org/en)
-- [React](https://reactjs.org)
