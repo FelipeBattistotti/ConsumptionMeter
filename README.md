@@ -8,7 +8,7 @@
 Esse projeto tem por objetivo construir uma aplicação Web que receberá o consumo de dados em megabyte, referente a um determinado período (backend) e permitirá ao usuário consultar o seu consumo por uma Aplicação Web (frontend).
 
 <br/>
-<!--<p align="center">
+<!--<p align="center"> 
   <img alt="Snapshot1" src=".github/snapshot1.png">
   <img alt="Snapshot2" src=".github/snapshot2.png">
 </p>
@@ -18,7 +18,7 @@ Esse projeto tem por objetivo construir uma aplicação Web que receberá o cons
 </p>-->
 
 # Backend
-Fluxograma do projeto: 
+Fluxograma do projeto:
 <p align="center">
   <img alt="ConsumptionMeterFlow" src=".github/ConsumptionMeterFlow.png">
 </p>
