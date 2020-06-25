@@ -1,6 +1,5 @@
 <p align="center">
-  <!--<img alt="Astronaut" src=".github/astronaut_icon.png">
-  <img alt="Rocket" src=".github/rocket_icon.png">-->
+  <img alt="Yoda" src=".github/yoda_icon.png">
 </p>
 
 # Projeto
