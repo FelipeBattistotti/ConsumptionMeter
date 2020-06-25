@@ -14,7 +14,7 @@ module.exports = {
 
         const { name, email, cpf } = request.body;
 
-        const id = generateUniqueId(); // gera um ID para o usuario
+        const id = generateUniqueId(); // gera ID único para o usuario
 
         const pwd = encryptPWD(request.body.pwd); // criptografa a senha
 

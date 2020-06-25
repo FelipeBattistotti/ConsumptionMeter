@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
-import { Link, useHistory } from 'react-router-dom';
-import { FiLogIn } from 'react-icons/fi';
+import { useHistory } from 'react-router-dom';
 
 import api from '../../services/api';
 
@@ -9,8 +8,6 @@ import './styles.css';
 import logoImg from '../../assets/logo.png';
 
 export default function Logon() {
-    //const [id, setId] = useState('');
-
     const [email, setEmail] = useState('');
     const [pwd, setPWD] = useState('');
     const history = useHistory();
@@ -19,15 +16,11 @@ export default function Logon() {
         e.preventDefault();
 
         try {
-            //const response = await api.post('session', { id });
-            const response = await api.post('session', { email, pwd });
+            const response = await api.post('session', { email, pwd }); // faz a requisição da Sessão
 
             localStorage.setItem('userId', response.data.id);
 
-            //localStorage.setItem('ongId', id);
-            //localStorage.setItem('ongName', response.data.name);
-
-            history.push('/bills');
+            history.push('/bills'); // navega para a rota de Faturas
         } catch (err) {
             alert('Falha no login, tente novamente.');
         }
@@ -36,8 +29,7 @@ export default function Logon() {
     return (
         <div className="logon-container">
             <section className="form">
-                <img  src={logoImg} alt="Yoda" />
-
+                <img  src={logoImg} alt="Yoda" className="img" />
                 <form onSubmit={handleLogin}>
                     <input 
                         placeholder="E-mail"

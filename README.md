@@ -5,17 +5,9 @@
 # Projeto
 <strong>Consumption Meter Web App</strong>
 
-Esse projeto tem por objetivo construir uma aplicação Web que receberá o consumo de dados em megabyte, referente a um determinado período (backend) e permitirá ao usuário consultar o seu consumo por uma Aplicação Web (frontend).
+Esse projeto tem por objetivo apresentar uma aplicação Web que receberá o consumo de dados em megabyte, referente a um determinado período (backend) e permitirá ao usuário consultar o seu consumo por uma Aplicação Web (frontend).
 
 <br/>
-<!--<p align="center"> 
-  <img alt="Snapshot1" src=".github/snapshot1.png">
-  <img alt="Snapshot2" src=".github/snapshot2.png">
-</p>
-<p align="center">
-  <img alt="Snapshot3" src=".github/snapshot3.png">
-  <img alt="Snapshot4" src=".github/snapshot4.png">
-</p>-->
 
 # Backend
 Fluxograma do projeto:
@@ -27,6 +19,12 @@ Fluxograma do projeto:
 
 # Frontend
 Snapshots:
+
+<p align="center"> 
+  <img alt="Snapshot1" src=".github/snapshot1.png">
+  <img alt="Snapshot2" src=".github/snapshot2.png">
+  <img alt="Snapshot3" src=".github/snapshot3.png">
+</p>
 
 <br/>
 
