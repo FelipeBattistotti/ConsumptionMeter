@@ -39,3 +39,12 @@ Snapshots:
 # Vídeos
 
 - [Medidor de Consumo - Web App Demo](https://youtu.be/ysfJrAA-LAE)
+- [Fluxograma do Projeto](https://youtu.be/lR0X3cR9dAk)
+- [Backend (Node.js)](https://drive.google.com/file/d/1Pkn7q2wMVJnEV9QuUGy_W-_NO5bwSOFe/view?usp=sharing)
+- [Frontend (React)](https://youtu.be/nTU33jcWwQI)
+
+<br/>
+
+# JSON
+
+- [JSON Insomnia](https://drive.google.com/file/d/1SbEBN-l4cCAO_aIBTcXHR5uhyAIwczFW/view?usp=sharing)
