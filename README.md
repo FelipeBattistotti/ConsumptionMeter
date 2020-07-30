@@ -38,11 +38,11 @@ Snapshots:
 
 # Vídeos
 
-- [Medidor de Consumo - Web App Demo](https://youtu.be/ysfJrAA-LAE)
-- [Fluxograma do Projeto](https://youtu.be/lR0X3cR9dAk)
-- [Backend (Node.js) - Parte 1](https://youtu.be/yT_jV0aznuc)
-- [Backend (Node.js) - Parte 2](https://youtu.be/7e_3LmQipsA)
-- [Frontend (React)](https://youtu.be/nTU33jcWwQI)
+- [Medidor de Consumo - Web App (Fluxograma do Projeto)](https://youtu.be/lR0X3cR9dAk)
+- [Medidor de Consumo - Web App (Backend) - Parte 1](https://youtu.be/yT_jV0aznuc)
+- [Medidor de Consumo - Web App (Backend) - Parte 2](https://youtu.be/7e_3LmQipsA)
+- [Medidor de Consumo - Web App (Frontend)](https://youtu.be/nTU33jcWwQI)
+- [Medidor de Consumo - Web App (Demo)](https://youtu.be/ysfJrAA-LAE)
 
 <br/>
 
